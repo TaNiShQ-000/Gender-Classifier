@@ -8,5 +8,15 @@ and the choices are pretty casul such as choice of
 -beverage
 -alchol
 
-there also has be eda for above project an the link is provided below
-https://www.kaggle.com/code/tanishqjazz/data-science-project-gender-classification/notebook
+**Inside the project** - prject oonsists of 
+-> Data loading/ precrocessing
+-> finding correlation between different features with target variable
+-> Data visualization
+-> Comparing different classification models
+     -Logistic regressio
+     -SVC model
+     -Decision tree classifer
+     -K-neighbours classisfer
+     -Random forest regressor
+     -Gradient boosing classifier
+

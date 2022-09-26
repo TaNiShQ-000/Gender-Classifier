@@ -1,12 +1,12 @@
-# gender-classifier
+# Gender-Classifier
 
-this project uses interactive data to work on a model that will predict the output
+This project uses interactive data to work on a model that will predict the output
 the output uses the input to determine weather the user is a male or a female
 and the choices are pretty casul such as choice of
--colour
--music
--beverage
--alchol
+-colour<br />
+-music<br />
+-beverage<br />
+-alchol<br />
 
 **Inside the project** - prject oonsists of 
 -> Data loading/ precrocessing

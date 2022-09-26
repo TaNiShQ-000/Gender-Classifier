@@ -13,10 +13,12 @@ and the choices are pretty casul such as choice of<br />
 -> finding correlation between different features with target variable <br />
 -> Data visualization <br />
 -> Comparing different classification models <br />
+     ```
      -Logistic regression <br /> 
      -SVC model<br />
      -Decision tree classifer <br />
      -K-neighbours classisfer<br /> 
      -Random forest regressor <br />
      -Gradient boosing classifier <br />
+     ```
 
